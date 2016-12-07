@@ -1,0 +1,14 @@
+body{
+  margin : 50px;
+}
+.image{
+  align : center;
+}
+  .bordered {
+    width: 720px;
+    height: 850px;
+    border: noborder;
+    border-radius: 8px;
+    border-align:center;
+    margin:auto;
+  }
